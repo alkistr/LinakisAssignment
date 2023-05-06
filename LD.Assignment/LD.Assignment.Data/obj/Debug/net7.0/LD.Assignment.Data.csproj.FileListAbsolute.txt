@@ -1,0 +1,17 @@
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Data\bin\Debug\net7.0\LD.Assignment.Data.deps.json
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Data\bin\Debug\net7.0\LD.Assignment.Data.runtimeconfig.json
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Data\bin\Debug\net7.0\LD.Assignment.Data.dll
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Data\bin\Debug\net7.0\LD.Assignment.Data.pdb
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Data\bin\Debug\net7.0\LD.Assignment.Core.dll
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Data\bin\Debug\net7.0\LD.Assignment.Core.pdb
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Data\obj\Debug\net7.0\LD.Assignment.Data.csproj.AssemblyReference.cache
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Data\obj\Debug\net7.0\LD.Assignment.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Data\obj\Debug\net7.0\LD.Assignment.Data.AssemblyInfoInputs.cache
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Data\obj\Debug\net7.0\LD.Assignment.Data.AssemblyInfo.cs
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Data\obj\Debug\net7.0\LD.Assignment.Data.csproj.CoreCompileInputs.cache
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Data\obj\Debug\net7.0\LD.Assignment.Data.csproj.CopyComplete
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Data\obj\Debug\net7.0\LD.Assignment.Data.dll
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Data\obj\Debug\net7.0\refint\LD.Assignment.Data.dll
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Data\obj\Debug\net7.0\LD.Assignment.Data.pdb
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Data\obj\Debug\net7.0\LD.Assignment.Data.genruntimeconfig.cache
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Data\obj\Debug\net7.0\ref\LD.Assignment.Data.dll
