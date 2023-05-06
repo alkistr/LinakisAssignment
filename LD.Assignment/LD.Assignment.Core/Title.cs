@@ -2,8 +2,8 @@
 {
     public class Title
     {
-        public int Id;
+        public int ID { get; set; }
 
-        public string Name;
+        public string Name { get; set; }
     }
 }

@@ -1,4 +1,6 @@
-﻿<div class="top-row ps-3 navbar navbar-dark">
+﻿@inject ITitleList TitleList
+
+<div class="top-row ps-3 navbar navbar-dark">
     <div class="container-fluid">
         <a class="navbar-brand" href="">LD.Assignment</a>
         <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
@@ -7,13 +9,18 @@
     </div>
 </div>
 
-<div class="@NavMenuCssClass nav-scrollable" @onclick="ToggleNavMenu">
+<div class="@NavMenuCssClass nav-scrollable">
     <nav class="flex-column">
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
-                <span class="oi oi-home" aria-hidden="true"></span> Home
-            </NavLink>
-        </div>
+        @foreach (var menuItem in _menuItems)
+        {
+            <div class="nav-item px-3">
+                <NavLink class="nav-link" href="">
+                    <span class="oi oi-home" aria-hidden="true"></span> @menuItem.Title
+                </NavLink>
+            </div>
+        }
+
+        
         <div class="nav-item px-3">
             <NavLink class="nav-link" href="counter">
                 <span class="oi oi-plus" aria-hidden="true"></span> Counter
@@ -29,6 +36,13 @@
 
 @code {
     private bool collapseNavMenu = true;
+
+    private List<TitleDto> _menuItems = new List<TitleDto>();
+    
+    protected async Task LoadMenu()
+    {
+        _menuItems = (await TitleList.GetTitleDtosAsync()).ToList();
+    }
 
     private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
 

@@ -1,13 +1,23 @@
-using LD.Assignment.Data;
-using Microsoft.AspNetCore.Components;
-using Microsoft.AspNetCore.Components.Web;
+using LD.Assignment.Application.Implementations;
+using LD.Assignment.Application.Interfaces;
+using LD.Assignment.Data.Context;
+using LD.Assignment.Data.Implementations;
+using LD.Assignment.Data.Interfaces;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
-builder.Services.AddSingleton<WeatherForecastService>();
+builder.Services.AddTransient<ITitleList, TitleList>();
+builder.Services.AddTransient<ILinkList, LinkList>();
+builder.Services.AddTransient<ITitlesRepository, TitlesRepository>();
+builder.Services.AddTransient<TitleContext>();
+
+builder.Services.AddDbContext<TitleContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
+    );
 
 var app = builder.Build();
 
