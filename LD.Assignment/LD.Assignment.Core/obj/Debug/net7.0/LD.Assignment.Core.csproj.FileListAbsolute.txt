@@ -1,0 +1,12 @@
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Core\bin\Debug\net7.0\LD.Assignment.Core.deps.json
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Core\bin\Debug\net7.0\LD.Assignment.Core.dll
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Core\bin\Debug\net7.0\LD.Assignment.Core.pdb
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Core\obj\Debug\net7.0\LD.Assignment.Core.csproj.AssemblyReference.cache
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Core\obj\Debug\net7.0\LD.Assignment.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Core\obj\Debug\net7.0\LD.Assignment.Core.AssemblyInfoInputs.cache
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Core\obj\Debug\net7.0\LD.Assignment.Core.AssemblyInfo.cs
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Core\obj\Debug\net7.0\LD.Assignment.Core.csproj.CoreCompileInputs.cache
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Core\obj\Debug\net7.0\LD.Assignment.Core.dll
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Core\obj\Debug\net7.0\refint\LD.Assignment.Core.dll
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Core\obj\Debug\net7.0\LD.Assignment.Core.pdb
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Core\obj\Debug\net7.0\ref\LD.Assignment.Core.dll
