@@ -8,15 +8,15 @@ namespace LD.Assignment.Application.Implementations
 {
     public class LinkList : ILinkList
     {
-        public async Task<IEnumerable<LinkDto>> GetLinkDtosByTopicAsync()
+        public async Task<IEnumerable<LinkDto>> GetLinkDtosByTopicAsync(string category)
         {
             var newsApiClient = new NewsApiClient("f73967c13c4b45c886d6bc98d61fce04");
             var articlesResponse = newsApiClient.GetEverything(new EverythingRequest
             {
-                Q = "Apple",
+                Q = category,
                 SortBy = SortBys.Popularity,
                 Language = Languages.EN,
-                From = new DateTime(2018, 1, 25)
+                From = DateTime.Today.AddYears(-1)
             });
 
             return await TransformResponse(articlesResponse);
