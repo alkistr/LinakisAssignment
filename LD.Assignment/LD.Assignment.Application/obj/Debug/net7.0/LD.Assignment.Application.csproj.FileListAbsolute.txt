@@ -1,0 +1,17 @@
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Application\obj\Debug\net7.0\LD.Assignment.Application.csproj.AssemblyReference.cache
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Application\obj\Debug\net7.0\LD.Assignment.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Application\obj\Debug\net7.0\LD.Assignment.Application.AssemblyInfoInputs.cache
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Application\obj\Debug\net7.0\LD.Assignment.Application.AssemblyInfo.cs
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Application\obj\Debug\net7.0\LD.Assignment.Application.csproj.CoreCompileInputs.cache
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Application\bin\Debug\net7.0\LD.Assignment.Application.deps.json
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Application\bin\Debug\net7.0\LD.Assignment.Application.dll
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Application\bin\Debug\net7.0\LD.Assignment.Application.pdb
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Application\bin\Debug\net7.0\LD.Assignment.Core.dll
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Application\bin\Debug\net7.0\LD.Assignment.Data.dll
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Application\bin\Debug\net7.0\LD.Assignment.Data.pdb
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Application\bin\Debug\net7.0\LD.Assignment.Core.pdb
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Application\obj\Debug\net7.0\LD.Assignment.Application.csproj.CopyComplete
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Application\obj\Debug\net7.0\LD.Assignment.Application.dll
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Application\obj\Debug\net7.0\refint\LD.Assignment.Application.dll
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Application\obj\Debug\net7.0\LD.Assignment.Application.pdb
+C:\Users\trias\source\Repos\LinakisAssignment\LD.Assignment\LD.Assignment.Application\obj\Debug\net7.0\ref\LD.Assignment.Application.dll
